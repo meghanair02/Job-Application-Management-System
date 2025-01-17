@@ -1,1 +1,2 @@
-# Job-Application-Management-System
+# JobConnect
+Job Application Management System
